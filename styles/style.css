@@ -83,3 +83,7 @@ span {
         color: rgb(30, 81, 190);
         border-bottom: 2px solid var(--complimentary-two);
 }
+
+@-ms-viewport{
+  width: device-width;
+}
