@@ -3,7 +3,7 @@ $(window).on("load", () => {
     $("body").removeClass("preload")
 })
 
-const stages = ["max#0777", "cax#077!", "cox#07!!", "cop#0d!!", "copied!!"]
+const stages = ["zope#7777", "zop#077!", "zo#07!!", "cop#0d!!", "copied!!"]
 
 function copyDiscord() {
     if (copyNotificationShowing) return
