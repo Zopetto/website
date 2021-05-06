@@ -84,9 +84,6 @@ span {
         border-bottom: 2px solid var(--complimentary-two);
 }
 
-@-ms-viewport{
-  width: device-width;
-}
 
 @media only screen and (min-width: 300px) and (orientation: portrait) {
     .left {
