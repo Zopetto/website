@@ -85,28 +85,43 @@ span {
 }
 
 
-@media only screen and (min-width: 300px) and (orientation: portrait) {
-    .left {
-        display: none;
-    }
+* {
+  box-sizing: border-box;
+}
 
-    .center-content {
-        padding: 1rem;
-    }
+.menu {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
 
-    .right {
-        display: none;
-    }
+.menu a {
+  background-color: #e5e5e5;
+  padding: 8px;
+  margin-top: 7px;
+  display: block;
+  width: 100%;
+  color: black;
+}
 
-    .main {
-        font-size: 5rem;
-        margin-top: 2rem;
-    }
+.main {
+  float: left;
+  width: 60%;
+  padding: 0 20px;
+}
 
-    .main * {
-        display: block;
-        margin: 1rem;
-    }
+.right {
+  background-color: #e5e5e5;
+  float: left;
+  width: 20%;
+  padding: 15px;
+  margin-top: 7px;
+  text-align: center;
+}
 
-    }
+@media only screen and (max-width: 620px) {
+  /* For mobile phones: */
+  .menu, .main, .right {
+    width: 100%;
+  }
 }
