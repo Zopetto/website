@@ -87,3 +87,29 @@ span {
 @-ms-viewport{
   width: device-width;
 }
+
+@media only screen and (min-width: 300px) and (orientation: portrait) {
+    .left {
+        display: none;
+    }
+
+    .center-content {
+        padding: 1rem;
+    }
+
+    .right {
+        display: none;
+    }
+
+    .main {
+        font-size: 5rem;
+        margin-top: 2rem;
+    }
+
+    .main * {
+        display: block;
+        margin: 1rem;
+    }
+
+    }
+}
