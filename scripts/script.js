@@ -1,23 +1,19 @@
-let copyNotificationShowing = false
-$(window).on("load", () => {
-    $("body").removeClass("preload")
-})
+function copyTag() {
+    console.log("boobies")
+    const tag = document.getElementsByClassName("discord")[0]
 
+    if (tag.innerText != "zope#7777") return
 
-function copyDiscord() {
-    if (copyNotificationShowing) return
-    const el = document.createElement('textarea');
-    el.value = "zope#7777";
-    document.body.appendChild(el);
-    el.select();
-    document.execCommand('copy');
-    document.body.removeChild(el);
+    const el = document.createElement("textarea")
+    el.value = "zope#0777"
+    document.body.appendChild(el)
+    el.select()
+    document.execCommand("copy")
+    document.body.removeChild(el)
 
-   
-    // // $("#discord")[0].innerText = "copied!!"
+    tag.innerText = "copied"
 
-    // setTimeout(() => {
-    //     copyNotificationShowing = false
-    //     $("#discord")[0].innerText = "zope#7777"
-    // }, 4000)
+    setTimeout(() => {
+        tag.innerText = "zope#7777"
+    }, 1000)
 }
