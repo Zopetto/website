@@ -2,10 +2,10 @@ function copyTag() {
     console.log("boobies")
     const tag = document.getElementsByClassName("discord")[0]
 
-    if (tag.innerText != "zope#0777") return
+    if (tag.innerText != "zope#7777") return
 
     const el = document.createElement("textarea")
-    el.value = "zope#0777"
+    el.value = "zope#7777"
     document.body.appendChild(el)
     el.select()
     document.execCommand("copy")
@@ -14,6 +14,6 @@ function copyTag() {
     tag.innerText = "copied"
 
     setTimeout(() => {
-        tag.innerText = "zope#0777"
+        tag.innerText = "zope#7777"
     }, 1000)
 }
