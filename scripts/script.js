@@ -8,7 +8,7 @@ const stages = ["zope#7777", "zop#077!", "zo#07!!", "cop#0d!!", "copied!!"]
 function copyDiscord() {
     if (copyNotificationShowing) return
     const el = document.createElement('textarea');
-    el.value = "max#0777";
+    el.value = "zope#7777";
     document.body.appendChild(el);
     el.select();
     document.execCommand('copy');
@@ -43,6 +43,6 @@ function copyDiscord() {
 
     // setTimeout(() => {
     //     copyNotificationShowing = false
-    //     $("#discord")[0].innerText = "max#0777"
+    //     $("#discord")[0].innerText = "zope#7777"
     // }, 4000)
 }
