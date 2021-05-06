@@ -13,31 +13,7 @@ function copyDiscord() {
     document.execCommand('copy');
     document.body.removeChild(el);
 
-    copyNotificationShowing = true
-
-    let i = 1
-
-    const interval1 = setInterval(() => {
-        if (!stages[i]) {
-            i = stages.length - 1
-            return clearInterval(interval1)
-        }
-        $("#discord")[0].innerText = stages[i]
-        i++
-    }, 50);
-
-    setTimeout(() => {
-        const interval2 = setInterval(() => {
-            if (!stages[i]) {
-                i = 1
-                copyNotificationShowing = false
-                return clearInterval(interval2)
-            }
-            $("#discord")[0].innerText = stages[i]
-            i--
-        }, 75)
-    }, 50 * stages.length + 3000)
-
+   
     // // $("#discord")[0].innerText = "copied!!"
 
     // setTimeout(() => {
