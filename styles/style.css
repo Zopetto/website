@@ -1,8 +1,8 @@
 body {
-	background-color: 31, 116, 138;
+	background-color: #4287f5
 }
 
-.center-content {
+#console {
 	font-family: courier, monospace;
 	color: #fff;
 	width:750px;
