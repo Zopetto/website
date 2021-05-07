@@ -1,6 +1,6 @@
 body {
 	background-color: #4287f5
-		 position: fixed; 
+	
 }
 
 #console {
@@ -12,6 +12,7 @@ body {
 	margin-right:auto;
 	margin-top:100px;
 	font-size:20px;
+	overflow-x:hidden;
 }
 
 a {
