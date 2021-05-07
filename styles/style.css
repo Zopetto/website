@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@301&display=swap');
 
+
 * {
     padding: 0;
     margin: 0;
@@ -10,7 +11,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: black;
     height: 100%;
     width: 100%;
 }
