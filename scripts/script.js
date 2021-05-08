@@ -2,7 +2,7 @@ var Typer = {
   text: '',
   accessCountimer: null,
   index: 0,
-  speed: 10,
+  speed: 2,
   file: '',
   accessCount: 0,
   deniedCount: 0,
@@ -41,7 +41,8 @@ var Typer = {
     } else if (key.keyCode == 27) {
       Typer.hidepop();
     } else if (Typer.text) {
-      var cont = Typer.content()
+      var cont = Typer.content();
+      if (cont.substring(cont.length - 1, cont.length) == '|')
         $('#console').html(
           $('#console')
             .html()
@@ -72,7 +73,15 @@ var Typer = {
   updLstChr: function () {
     var cont = this.content();
 
-
+    if (cont.substring(cont.length - 1, cont.length) == '|')
+      $('#console').html(
+        $('#console')
+          .html()
+          .substring(0, cont.length - 1),
+      );
+    else this.write('|'); // else write it
+  },
+};
 
 function replaceUrls(text) {
   var http = text.indexOf('http://');
