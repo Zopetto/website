@@ -34,10 +34,17 @@
     </script> 
     <div id="console"></div> 
                      
-                         <video autoplay loop id="vid">
-    <source src="boobies.mp4" type="video/mp4">
-    </video>
+
     
+    </script>
+                                              
+                                                  <script>
+        const player = document.getElementsByClassName("video")[0]
+
+        document.getElementById("vidSource").src = "assets/boobies.mp4"
+
+        player.load()
+
     </script>
   </body> 
 </html> 
