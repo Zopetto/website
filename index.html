@@ -42,15 +42,15 @@
                      
 
     
-    </script>
-                                              
-                                                  <script>
-        const player = document.getElementsByClassName("video")[0]
+    <script>
+        const player = document.getElementById("video")
 
-        document.getElementById("vidSource").src = "assets/boobies.mp4"
+        const vid = randomVideo()
+
+        document.getElementById("vidSource").src = vid;
 
         player.load()
-
+    </script>
     </script>
   </body> 
 </html> 
