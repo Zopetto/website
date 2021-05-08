@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Codebeautify.org Text to HTML Converter</title>
-	</head>
-	<body>
-		<p>
-			<br/>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[url=https://steamcommunity.com/]●⠀⠀●⠀⠀●⠀⠀●[/url]
-			<br/>
-			<br/>
+<p>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╭–––––––––––––––––––––––––––––––––––––––––––––––––––––––––╮
 			<br/>
 			<br/>
@@ -52,5 +42,4 @@
 			<br/>
 ⠀
 		</p>
-	</body>
-</html>
+
