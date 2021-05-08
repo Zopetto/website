@@ -79,7 +79,6 @@ var Typer = {
           .html()
           .substring(0, cont.length - 1),
       );
-    else this.write('|'); // else write it
   },
 };
 
