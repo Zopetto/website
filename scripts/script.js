@@ -107,3 +107,8 @@ function t() {
     clearInterval(timer);
   }
 }
+
+function randomVideo() {
+    const vid = Math.floor(Math.random() * 10) + 1
+    return "content/" + vid + ".mp4"
+}
