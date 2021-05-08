@@ -12,11 +12,12 @@ body {
 	overflow-x: hidden;
 	font-size:14px;
 	text-align: center;
+	overflow-y: hidden;
 }
 
 
 #console *:hover, a:hover {
-    color: white;
+    color: orange;
     border-bottom: 2px solid var(--complimentary-two);
 }
 
