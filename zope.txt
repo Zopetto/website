@@ -13,7 +13,7 @@
 			<br/>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀S ⠀O ⠀C ⠀I ⠀A ⠀L S
 			<br/>
-		<p>
+		<p style="text-align:center">
 			<a href="https://steamcommunity.com/id/zopee/ ">    steam</a>
 			<br/>
 			<a href="https://www.instagram.com/snowminesnetwork/ ">    instagram</a>
