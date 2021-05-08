@@ -2,7 +2,7 @@ var Typer = {
   text: '',
   accessCountimer: null,
   index: 0,
-  speed: 5,
+  speed: 2,
   file: '',
   accessCount: 0,
   deniedCount: 0,
@@ -95,7 +95,9 @@ function replaceUrls(text) {
   }
 }
 
-
+Typer.speed = 3;
+Typer.file = 'zope.txt';
+Typer.init();
 
 var timer = setInterval('t();', 30);
 function t() {
@@ -105,7 +107,3 @@ function t() {
     clearInterval(timer);
   }
 }
-
-Typer.speed = 3;
-Typer.file = 'zope.txt';
-Typer.init();
