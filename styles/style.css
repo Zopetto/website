@@ -2,9 +2,7 @@ body {
 	background-color: #4287f5
 }
 
-#console *:hover, a:hover {
-        color: rgb(175, 100, 14);
-        border-bottom: 2px solid var(--complimentary-two);
+#console {
 	font-family: courier, monospace;
 	color: #fff;
 	width:750px;
