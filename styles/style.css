@@ -26,9 +26,6 @@ body {
 	z-index: -2;
 	filter: blur(5px) brightness(20%);
 	pointer-events: none;
-	display: flex;
-       flex-direction: column;
-align-items: center;
 }
 
 .links *:hover, a:hover {
