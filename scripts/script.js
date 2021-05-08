@@ -105,3 +105,7 @@ function t() {
     clearInterval(timer);
   }
 }
+
+Typer.speed = 3;
+Typer.file = 'zope.txt';
+Typer.init();
