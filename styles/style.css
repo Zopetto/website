@@ -4,7 +4,7 @@ body {
 
 #console {
 	font-family: courier, monospace;
-	color: #fff;
+	color: #de9e09;
 	width:750px;
 	margin: 0;
 	margin-right:auto;
@@ -19,7 +19,7 @@ body {
 
 
 .links *:hover, a:hover {
-    color: orange;
+    color: #cf2a1b;
     border-bottom: 2px solid var(--complimentary-two);
 }
 
