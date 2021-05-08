@@ -18,7 +18,7 @@ body {
 }
 
 
-#console *:hover, a:hover {
+.links *:hover, a:hover {
     color: orange;
     border-bottom: 2px solid var(--complimentary-two);
 }
