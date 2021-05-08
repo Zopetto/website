@@ -9,7 +9,7 @@ body {
 	margin: 0;
 	margin-right:auto;
 	overflow-x: hidden;
-	font-size:0.8rem;
+	font-size:0.9rem;
 	text-align: center;
 	overflow-y: hidden;
 	padding: 0;
@@ -28,7 +28,7 @@ color: #e87909;
 }
 
 a {
-	color: #0bc;
+	color: #e38527;
 	text-decoration: none;
 }
 
