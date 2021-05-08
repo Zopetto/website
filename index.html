@@ -33,18 +33,7 @@
                    <video autoplay muted loop class="video">
     <source id="vidSource" type="video/mp4"/>
 </video>                                        
-        
-                                           
-                          <script>
-        const player = document.getElementById("video")
-
-        const vid = randomVideo()
-
-        document.getElementById("vidSource").src = vid;
-
-        player.load()
-    </script>                     
-                                           
+                                                           
   </head> 
   <body> 
     <script type="text/javascript" src="index.js"> 
@@ -53,6 +42,15 @@
                      
 
     
+    </script>
+                                              
+                                                  <script>
+        const player = document.getElementsByClassName("video")[0]
 
+        document.getElementById("vidSource").src = "assets/centralcee.mp4"
+
+        player.load()
+
+    </script>
   </body> 
 </html> 
