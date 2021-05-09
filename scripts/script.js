@@ -110,7 +110,7 @@ function t() {
 
 
 var colour="random"; // "random" can be replaced with any valid colour ie: "red"...
-var sparkles=1000;// increase of decrease for number of sparkles falling
+var sparkles=200;// increase of decrease for number of sparkles falling
 
 var x=ox=400;
 var y=oy=300;
