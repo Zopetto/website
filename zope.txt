@@ -1,81 +1,22 @@
-<div class="highlighted-code">
-<div class="source">
-<ol class="text">
-<li class="li1">
-<div class="de1">⠀</div>
-</li>
-<li class="li1">
-<div class="de1">⠀</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ᴡ⠀ᴇ⠀ʟ⠀ᴄ⠀ᴏ⠀ᴍ⠀ᴇ</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀        |</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀ ___________________________________|____________________________________</div>
-</li>
-<li class="li1">
-<div class="de1">&nbsp;</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ sᴛᴇᴀᴍ ᴘʀᴏꜰɪʟᴇ. ᴘʟᴇᴀsᴇ ʀᴇᴀᴅ ᴛʜᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ʙᴇʟᴏᴡ ᴀɴᴅ sʜᴏᴏᴛ ᴍᴇ</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ᴀ ꜰʀɪᴇɴᴅ ɪɴᴠɪᴛᴀᴛɪᴏɴ ᴀɴᴅ ᴄᴏᴍᴍᴇɴᴛ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ. ʜᴀᴠᴇ ᴀ ɢʀᴇᴀᴛ ᴅᴀʏ.</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀|_______________________________________________________________________|</div>
-</li>
-<li class="li1">
-<div class="de1">&nbsp;</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀ᴍʏ ɴᴀᴍᴇ ɪs ᴊᴀsᴏɴ ᴀɴᴅ ɪᴍ ᴀɴ ᴇᴘɪᴄ ɢᴀᴍᴇʀ. ɪ ᴍᴏsᴛʟʏ ᴘʟᴀʏ ʀᴏᴄᴋᴇᴛ</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀  ᴀ ʙ ᴏ ᴜ ᴛ⠀⠀&mdash;&mdash;|⠀⠀⠀ʟᴇᴀɢᴜᴇ, sᴜᴘᴇʀ ᴍᴏɴᴋᴇʏ ʙᴀʟʟ, ᴀɴᴅ ᴅᴜsᴋ. ᴀsɪᴅᴇ ꜰʀᴏᴍ ɢᴀᴍɪɴɢ, ɪ</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀ᴇɴᴊᴏʏ ᴇᴀᴛɪɴɢ ʙᴜʀʀɪᴛᴏs, ʜɪᴋɪɴɢ, ᴀɴᴅ ʙᴜʏɪɴɢ ᴘʟᴀɴᴛs.</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|___________________________________________________________</div>
-</li>
-<li class="li1">
-<div class="de1">&nbsp;</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀     ʟ ɪ ɴ ᴋ s⠀⠀&mdash;&mdash;|⠀⠀⠀[url=https://steamcommunity.com]ʙᴀᴇ[/url]⠀&bull;⠀[url=https://steamcommunity.com]ᴍᴜsɪᴄ[/url]⠀&bull;⠀[url=https://steamcommunity.com]ᴅɪsᴄᴏʀᴅ[/url]⠀&bull;⠀[url=https://steamcommunity.com]ɢɪᴛʜᴜʙ[/url]⠀&bull;⠀[url=https://steamcommunity.com]ᴛᴡɪᴛᴛᴇʀ[/url]⠀&bull;⠀[url=https://steamcommunity.com]ʙᴜᴛᴛs[/url]</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|___________________________________________________________</div>
-</li>
-<li class="li1">
-<div class="de1">&nbsp;</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀   ᴀ ᴅ ᴅ s⠀⠀&mdash;&mdash;|⠀⠀⠀ᴄᴏᴍᴍᴇɴᴛ ꜰɪʀsᴛ⠀&bull;⠀ᴀᴄᴛɪᴠᴇ ᴘʀᴏꜰɪʟᴇ⠀&bull;⠀ɴᴏ ʙᴀɴs⠀&bull;⠀ʟᴇᴠᴇʟ ᴛᴇɴ ᴘʟᴜs</div>
-</li>
-<li class="li1">
-<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|___________________________________________________________</div>
-</li>
-<li class="li1">
-<div class="de1">⠀</div>
-</li>
-<li class="li1">
-<div class="de1">⠀</div>
-</li>
-</ol>
-</div>
-</div>
+<p>⠀<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀________________________<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╱⠀⠀⠀⠀⠀⠀ ᴡ ᴇ ʟ ᴄ ᴏ ᴍ ᴇ ⠀⠀⠀⠀⠀⠀╲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀⠀⠀⠀•⠀⠀⠀⠀•<br>
+⠀⠀⠀⠀⠀⠀ ╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Thank you for visiting my Steam profile. I'm Sarah! I speak English and<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀French. I look forward to meeting you. :)<br>
+⠀⠀⠀⠀⠀⠀ ╲________________________________________________________________╱<br>
+ <br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀________________________<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╱⠀⠀⠀⠀⠀⠀⠀ ᴀ ᴅ ᴅ ɪ ɴ ɢ ⠀⠀⠀⠀⠀⠀⠀╲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀⠀⠀⠀•⠀⠀⠀⠀•<br>
+⠀⠀⠀⠀⠀⠀ ╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Please accompany friend invites with a comment and have no bans.<br>
+⠀⠀⠀⠀⠀⠀ ╲________________________________________________________________╱<br>
+ <br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀________________________<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀╱⠀⠀⠀⠀⠀⠀⠀⠀ ʟ ɪ ɴ ᴋ s ⠀⠀⠀⠀⠀⠀⠀⠀ ╲⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀•⠀⠀⠀⠀•⠀⠀⠀⠀•<br>
+⠀⠀⠀⠀⠀⠀ ╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲<br>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[url=steamcommunity.com]Music[/url]⠀⠀//⠀⠀[url=steamcommunity.com]Discord[/url]⠀⠀//⠀⠀[url=steamcommunity.com]Telegram[/url]⠀⠀//⠀⠀[url=steamcommunity.com]Bae[/url]⠀⠀//⠀⠀[url=steamcommunity.com]Butts[/url]<br>
+⠀⠀⠀⠀⠀⠀ ╲________________________________________________________________╱<br>
+⠀<br>
+⠀<br>
+</p>
