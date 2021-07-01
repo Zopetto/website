@@ -1,29 +1,74 @@
-<p>
-╭–––––––––––––––––––––––––––––––––––––––––––––––––––––╮
-⠀zope.𝚝𝚡𝚝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⎯⠀⠀❐⠀⠀⤬
-┞–––––––––––––––––––––––––––––––––––––––––––––––––––––┦
-            <br/>
-welcome!
-            <br/>
-
-discord | zope#0707
-            <br/>
-
-⠀┞–––––––––––––––––––––––––––––––––––––––––––––––––––––┦
-            <br/>
-S ⠀O ⠀C ⠀I ⠀A ⠀L  S
-<div class="links">
-        <p style="text-align:center">
-            <a href="https://steamcommunity.com/id/zopee/ ">    steam</a>
-            <br/>
-            <a href="https://discord.gg/bfnsCZ2rj4 ">    discord server</a>
-            <br/>
-            <a href="https://www.youtube.com/channel/UC17g4Ykh9iXxcRY5-QwOHCg ">    youtube</a>
-            <br/>
-            <a href="https://open.spotify.com/user/oo7ryetcntc9xcszaoo55aumr?si=65cd0a8a8d934dea ">    spotify</a>
-            <br/>
-            <a href="https://namemc.com/profile/jecal.4 ">    namemc</a>
-</div>
-        </p>
-╰–––––––––––––––––––––––––––––––––––––––––––––––––––––╯
-        </p>
+<ol class="text">
+<li class="li1">
+<div class="de1">⠀⠀╱⠀╱⠀⠀&bull;⠀&bull;⠀&bull;⠀⠀⠀⠀⠀⠀⠀⠀__╱╲__⠀___⠀___╱╳╲___⠀___⠀__╱╲__⠀⠀⠀⠀⠀⠀⠀⠀&bull;⠀&bull;⠀&bull;⠀⠀╲⠀╲</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀⠀⠀⠀⠀╱▔▔▔|▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀[url=https://steamcommunity.com]ᴡ⠀ᴇ⠀ʟ⠀ᴄ⠀ᴏ⠀ᴍ⠀ᴇ⠀[/url]⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[url=https://steamcommunity.com]ɪ⠀ᴅ⠀╱⠀A⠀E⠀V⠀O⠀A[/url]</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀⠀⠀⠀⠀╲_____|_____________________________________________________________╱</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀&bull;⠀&bull;⠀&bull;⠀&bull;</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀  ╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲⠀[url=https://steamcommunity.com][b]I⠀N⠀F⠀O[/b][/url]⠀╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀[url=https://steamcommunity.com]Sarah[/url]⠀&bull;⠀[url=https://steamcommunity.com]Russian[/url]⠀&bull;⠀[url=https://steamcommunity.com]♀[/url]</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Hello! Thank you for visiting my profile. I speak english and russian and</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀enjoy many multiplayer games such as Rocket League and Destiny 2.</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀If we share mutual interests such as art, music, or games, feel free to</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀send a friend request! I look forward to meeting you.</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀&mdash;&mdash;⠀[url=https://steamcommunity.com]❤[/url]</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀  ╲___________╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔╲_____________________________╱</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀  ╱⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[url=https://steamcommunity.com]📁⠀ᵖˡᵃʸˡᶦˢᵗ</div>
+</li>
+<li class="li1">
+<div class="de1">[/url]⠀⠀⠀[url=https://steamcommunity.com]📁⠀ᵇᵃᵉ[/url]⠀⠀⠀[url=https://steamcommunity.com]📁⠀ᵐʸˢᵗᵉʳʸ[/url]</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀██████⠀⠀⠀♪⠀⠀[url=https://steamcommunity.com]The Moss[/url]⠀&mdash;⠀ᴄᴏsᴍᴏ sʜᴇʟᴅʀᴀᴋᴇ</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀██   ►  ██⠀⠀⠀♪⠀⠀[url=https://steamcommunity.com]Nice Boys[/url]⠀&mdash;⠀ᴛᴇᴍᴘᴏʀᴇx</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│⠀⠀⠀⠀██████⠀⠀⠀♪⠀⠀[url=https://steamcommunity.com]Rock Bottom[/url]⠀&mdash;⠀ɢʀᴀɴᴅsᴏɴ</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀│</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀  ╲________________________________________________╱▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</div>
+</li>
+<li class="li1">
+<div class="de1">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀&copy;⠀[url=https://steamcommunity.com][u]ＡＥＶＯＡ[/u][/url] ▐▐││││█▌▌▐│</div>
+</li>
+</ol>
