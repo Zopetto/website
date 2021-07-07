@@ -14,15 +14,15 @@ discord | rabbit!#5959
 S ⠀O ⠀C ⠀I ⠀A ⠀L  S
 <div class="links">
         <p style="text-align:center">
-            <a href="https://steamcommunity.com/id/zopee/ ">    steam</a>
+            <b href="https://steamcommunity.com/id/zopee/ ">steam</b>
             <br/>
-            <a href="https://discord.gg/bfnsCZ2rj4 ">    discord server</a>
+            <b href="https://discord.gg/bfnsCZ2rj4 ">discord server</b>
             <br/>
-            <a href="https://www.youtube.com/channel/UC17g4Ykh9iXxcRY5-QwOHCg ">    youtube</a>
+            <b href="https://www.youtube.com/channel/UC17g4Ykh9iXxcRY5-QwOHCg ">youtube</b>
             <br/>
-            <a href="https://open.spotify.com/user/oo7ryetcntc9xcszaoo55aumr?si=65cd0a8a8d934dea ">    spotify</a>
+            <b href="https://open.spotify.com/user/oo7ryetcntc9xcszaoo55aumr?si=65cd0a8a8d934dea ">spotify</b>
             <br/>
-            <a href="https://namemc.com/profile/jecal.4 ">    namemc</a>
+            <b href="https://namemc.com/profile/jecal.4 ">namemc</b>
 </div>
         </p>
 ╰–––––––––––––––––––––––––––––––––––––––––––––––––––––╯
