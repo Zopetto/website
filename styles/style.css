@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-    font-family: Verdana, sans-serif;
+    font-family: courier, monospace;
     color: white;
     width:750px;
     margin: 0;
