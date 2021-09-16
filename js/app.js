@@ -15,12 +15,12 @@ particlesJS(
     "particles-js",
   
     {
-       particles: {
-            number: {
-                value: 80,
-                density: {
-                    enable: true,
-                    value_area: 400
+      particles: {
+        number: {
+          value: 80,
+          density: {
+            enable: true,
+            value_area: 800,
           },
         },
         color: {
