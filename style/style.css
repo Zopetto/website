@@ -9,7 +9,7 @@ body {
     position: absolute;
     text-align: center;
     top: 30%;
-    left: 55%;
+    left: 45%;
     /* width: fit-content; */
   
     display: flex;
@@ -17,15 +17,14 @@ body {
     justify-content: center;
   }
   .heading h1 {
-    color: black;
-    user-select: none
+    color: white;
     font-size: 70px;
     line-height: 50px;
     align-self: center;
     text-align: center;
   }
   .heading h3 {
-    color: black;
+    color: white;
     font-size: 20px;
     text-align: center;
   }
