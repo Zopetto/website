@@ -16,6 +16,13 @@ body {
     align-items: center;
     justify-content: center;
   }
+ 
+  .exi {
+color: white;
+      font-size: 40px;
+     align="right" style="vertical-align: top;
+}
+
   .heading h1 {
     color: white;
     font-size: 70px;
