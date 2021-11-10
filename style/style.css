@@ -36,15 +36,14 @@ color: white;
     color: white;
     font-size: 20px;
     text-align: center;
-    user-select:none;
-    -moz-user-select:none;
+ 
+   
   }
   .heading h2 {
     color: white;
     font-size: 13px;
     text-align: center;
-    user-select:none;
-    -moz-user-select:none;
+
   }
   #particles-js {
     background-color: black;
