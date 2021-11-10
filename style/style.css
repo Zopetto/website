@@ -8,8 +8,8 @@ body {
   .heading {
     position: absolute;
     text-align: center;
-    top: 30%;
-    left: 47%;
+    top: 20%;
+    left: 39%;
     /* width: fit-content; */
   
     display: flex;
@@ -20,20 +20,31 @@ body {
   .exi {
 color: white;
       font-size: 40px;
-     align="right" style="vertical-align: top;
 }
 
   .heading h1 {
     color: white;
-    font-size: 70px;
-    line-height: 50px;
+    font-size: 100px;
+    line-height: 1px;
     align-self: center;
     text-align: center;
+      user-select:none;
+      -moz-user-select:none;
+    
   }
   .heading h3 {
     color: white;
     font-size: 20px;
     text-align: center;
+    user-select:none;
+    -moz-user-select:none;
+  }
+  .heading h2 {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    user-select:none;
+    -moz-user-select:none;
   }
   #particles-js {
     background-color: black;
