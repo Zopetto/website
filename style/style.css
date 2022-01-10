@@ -8,8 +8,8 @@ body {
   .heading {
     position: absolute;
     text-align: center;
-      vertical-align: middle;
-
+    top: 25%;
+    left: 38%;
     /* width: fit-content; */
   
     display: flex;
